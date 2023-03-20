@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bb366542_5adff08d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000760
+      },
+      "writtenOn": "2023-03-20T20:33:46Z",
+      "side": 1,
+      "message": "and it breaks the brightness slider even more. from 0-50% the screen is dark enough, and 50-80% it gets slightly bright, while 80-100% entirely ramps up the brightness like crazy.. which is worse than the issue that we\u0027re trying to fix here. The only solution i see is either pull in a custom AIDL light hal to device tree and modify it accordingly or merge the brightness curve hacks in frameworks/base.\n\nany other solutions/suggestions are also appreciated",
+      "revId": "91fdce1cb5c6f37d310c300d184f14a8dc942571",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
