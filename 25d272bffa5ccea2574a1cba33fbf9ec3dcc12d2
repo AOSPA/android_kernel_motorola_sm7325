@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e108e960_452b4ad8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000760
+      },
+      "writtenOn": "2023-03-25T08:08:40Z",
+      "side": 1,
+      "message": "This inverts the entire behaviour of brightness slider, lol, we don\u0027t want that",
+      "revId": "25d272bffa5ccea2574a1cba33fbf9ec3dcc12d2",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
